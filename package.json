@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Plom loan app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madundako007/Plom_Loan_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madundako007/Plom_Loan_App/issues"
+  },
+  "homepage": "https://github.com/madundako007/Plom_Loan_App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.4.0"
+  }
+}
